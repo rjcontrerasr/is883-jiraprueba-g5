@@ -1,1 +1,7 @@
 streamlit
+openai
+langchain
+langchain_openai
+pandas
+atlassian-python-api
+langchain-community
