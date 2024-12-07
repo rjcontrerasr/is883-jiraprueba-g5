@@ -134,7 +134,7 @@ os.environ["JIRA_CLOUD"] = "True"
 
 #project_key = "LLMTS"
 
-assigned_issue= "Managing an Account"
+assigned_issue= "Managing my sleepint Account"
 client_complaint = "I made a purchase and it was disputed"
 
 question = (
